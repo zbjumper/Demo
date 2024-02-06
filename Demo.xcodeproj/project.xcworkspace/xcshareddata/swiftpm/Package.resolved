@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "clockhandrotationkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/octree/ClockHandRotationKit",
+      "state" : {
+        "revision" : "a0bfb020f58f5065b7a4dc53ff10be1c6bb187db",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "swinganimation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TopWidgets/SwingAnimation.git",
+      "state" : {
+        "revision" : "feb1fced29715d59f6aeb8bdbf5159b479fd24de",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
